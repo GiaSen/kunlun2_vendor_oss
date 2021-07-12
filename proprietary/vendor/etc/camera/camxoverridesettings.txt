@@ -1,0 +1,16 @@
+overrideEnableMFNR=1
+advanceFeatureMask=0x2
+multiCameraEnable=TRUE
+dualCamLtmEnable=TRUE
+singleIFESupportedWidth=5184
+singleIFESupportedHeight=3880
+minReprocessInputWidth=1280
+minReprocessInputHeight=720
+enableNCSService=TRUE
+disableFocusIndication=1
+enableSensorHWSync=TRUE
+enableSensorFpsMatch=TRUE
+multiCameraFrameSync=1
+multiCamera3ASync=TRUE
+preFlashMaxFrameWaitLimitAF=25
+enableMCTF=FALSE
